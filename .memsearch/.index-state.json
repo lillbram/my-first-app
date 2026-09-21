@@ -1,0 +1,18 @@
+{
+  "collection": "ms_my_first_app_98f65e12",
+  "failed_files": [],
+  "indexed_chunks": 0,
+  "indexed_files": 0,
+  "last_completed_at": "2026-09-21T13:46:36.781771Z",
+  "last_started_at": "2026-09-21T13:46:31.808047Z",
+  "last_success_at": "2026-09-21T13:46:36.781771Z",
+  "milvus_uri": "~/.memsearch/milvus.db",
+  "operation": "index",
+  "paths": [
+    "/Users/mac/Documents/software-engineer-learning/my-first-app/.memsearch/memory"
+  ],
+  "schema_version": 1,
+  "status": "ok",
+  "total_files": 0,
+  "updated_at": "2026-09-21T13:46:36.781771Z"
+}
