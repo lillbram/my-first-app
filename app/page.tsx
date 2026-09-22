@@ -1,3 +1,10 @@
+interface Client {
+  name: string;
+  city: string;
+  active: boolean;
+  email?: string;
+}
+
 export default function Home() {
   const clients = [
     {
@@ -41,6 +48,7 @@ export default function Home() {
               <p className="font-medium">{client.name}</p>
               <p className="text-sm text-zinc-500">{client.city}</p>
               <p className="text-sm text-zinc-500">{client.phone}</p>
+              <p className="text-sm text-zinc-500">{client.email?}</p>
             </div>
           ))}
       </div>
