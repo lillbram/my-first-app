@@ -1,11 +1,11 @@
 {
   "collection": "ms_my_first_app_98f65e12",
   "failed_files": [],
-  "indexed_chunks": 0,
-  "indexed_files": 0,
-  "last_completed_at": "2026-09-21T13:46:36.781771Z",
-  "last_started_at": "2026-09-21T13:46:31.808047Z",
-  "last_success_at": "2026-09-21T13:46:36.781771Z",
+  "indexed_chunks": 5,
+  "indexed_files": 1,
+  "last_completed_at": "2026-09-22T15:18:25.051630Z",
+  "last_started_at": "2026-09-22T15:18:17.724733Z",
+  "last_success_at": "2026-09-22T15:18:25.051630Z",
   "milvus_uri": "~/.memsearch/milvus.db",
   "operation": "index",
   "paths": [
@@ -13,6 +13,6 @@
   ],
   "schema_version": 1,
   "status": "ok",
-  "total_files": 0,
-  "updated_at": "2026-09-21T13:46:36.781771Z"
+  "total_files": 1,
+  "updated_at": "2026-09-22T15:18:25.051630Z"
 }
